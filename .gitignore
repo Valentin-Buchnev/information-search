@@ -1,2 +1,6 @@
 download_site/storage.data
 download_site/storage.dict
+word2vec/model_embedding
+word2vec/words.txt
+*.tsv
+*.csv
