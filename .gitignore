@@ -4,3 +4,4 @@ word2vec/model_embedding
 word2vec/words.txt
 *.tsv
 *.csv
+*.txt
